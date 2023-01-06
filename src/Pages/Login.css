@@ -1,0 +1,8 @@
+.login__bg{
+    background-image: url(https://thumbs.dreamstime.com/b/login-businesswoman-hand-pressing-virtual-button-virtual-screen-44615280.jpg);
+    height:92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
